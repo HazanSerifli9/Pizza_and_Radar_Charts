@@ -22,7 +22,7 @@ Data Visualizations: Intuitive radar and pizza plots to showcase percentile metr
 
 Insights for Fans: Data-driven insights into how Marmoush might fit into Manchester City's playing style.
 
- ### Preview
+### Preview
 
 ![omar marmoush](https://github.com/user-attachments/assets/0788b1d3-eaaa-494f-b561-fdddeb0d10ac)
 
